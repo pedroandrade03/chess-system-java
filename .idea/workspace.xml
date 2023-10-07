@@ -4,17 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="00eb02bc-515a-4a09-b050-1e84e0c6be0a" name="Changes" comment="feat: exceptions and clearing screen">
+    <list default="true" id="00eb02bc-515a-4a09-b050-1e84e0c6be0a" name="Changes" comment="feat: possible moves">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/UI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/board/Board.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/board/Board.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/board/Piece.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/board/Piece.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/board/Position.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/board/Position.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/chess/ChessMatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chess/ChessMatch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chess/ChessPiece.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chess/ChessPiece.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/chess/pieces/King.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chess/pieces/King.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chess/pieces/Rook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chess/pieces/Rook.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +62,7 @@
       <workItem from="1696563436700" duration="6192000" />
       <workItem from="1696590301621" duration="6056000" />
       <workItem from="1696696216577" duration="1873000" />
-      <workItem from="1696698129397" duration="5950000" />
+      <workItem from="1696698129397" duration="8244000" />
     </task>
     <task id="LOCAL-00001" summary="feat: piece moves">
       <option name="closed" value="true" />
@@ -87,7 +80,15 @@
       <option name="project" value="LOCAL" />
       <updated>1696701621038</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="feat: possible moves">
+      <option name="closed" value="true" />
+      <created>1696708536488</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1696708536488</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -96,6 +97,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="feat: piece moves" />
     <MESSAGE value="feat: exceptions and clearing screen" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: exceptions and clearing screen" />
+    <MESSAGE value="feat: possible moves" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: possible moves" />
   </component>
 </project>
